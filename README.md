@@ -2,9 +2,6 @@
 
 Our project replicates and extends the claims made in the paper Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings. This paper highlights the biases that exist in the data and how the machine learning models run the risk of amplifying them. Wordembedding is a popular framework to represent text data as vectors and most of the machine/deep learning models these days make extensive use of it. Word embedding represents text as a d-dimensional vector. So, all those words which have similar semantic meaning ends up close to each other in this d-dimensional vector space
 
-# Authors
-Dhruv Agarwal
-
 
 # Dataset
 **w2vNEWS (Word2Vec embedding trained on a corpus of Google news texts) - w2v_gnews_small.txt**
